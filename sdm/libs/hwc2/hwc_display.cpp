@@ -46,10 +46,6 @@
 #include <gr.h>
 #endif
 
-#ifdef QTI_BSP
-#include <hardware/display_defs.h>
-#endif
-
 #define __CLASS__ "HWCDisplay"
 
 namespace sdm {
